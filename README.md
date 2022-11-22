@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/vergel07/vergel07/main/cover.png)
+![alt text](https://raw.githubusercontent.com/vergel07/vergel07/main/cover-2.png)
 
 <!--
 ### Hi there 👋
